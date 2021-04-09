@@ -21,7 +21,7 @@
 title: Roshan Sapkota's Blog
 email: roshan.sapkota@rocketmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Roshan Sapkota will be sharing all of his thoughts, ideas, and basically anything he finds worth sharing in this blog.
+  Roshan Sapkota will be sharing all of his thoughts, ideas, and anything he finds worth sharing in this blog.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.roshansapkota.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,8 @@ github_username:  mroshan33
 linkedin_username: mroshan33
 
 # Build settings
-theme: minima
+#Removed minima theme, as it is converted to a regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
